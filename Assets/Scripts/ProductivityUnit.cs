@@ -42,4 +42,3 @@ public class ProductivityUnit : Unit
         base.GoTo(position);
     }
 }
-    
